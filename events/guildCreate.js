@@ -9,8 +9,8 @@ const girismesaj = [
   '**ÖNEMLİ:** Botun kullanması için mod-log kanalı açın ve deneme için',
   '!uyarı komutunu kullanın.',
   '',
-  `CST resmi sunucusu : https://discord.gg/kg2JGzw`,
-  `**cst sunucusu** https://discord.gg/kg2JGzw`
+  ``,
+  ``
 ]
 
 client.on('guildCreate', guild => {
